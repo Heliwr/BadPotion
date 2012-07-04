@@ -1,0 +1,5 @@
+name: BadPotion
+version: 3.3
+author: Wundark, Heliwr
+main: com.github.Heliwr.BadPotion.BadPotion
+description: Mitigates the use of Potions
